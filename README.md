@@ -1,2 +1,3 @@
-# macromedia-flash-8
-macromedia flash 8 archive
+# macromedia flash 8
+a archive of macromedia flash 8
+**we are not adobe** dont use this as an official download!
